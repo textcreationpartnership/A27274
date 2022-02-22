@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behaviours, confessions, last speeches and execution of seven notorious malefactors who were on the 24th of this instant October, executed at Tyburn for felonies, murder, robberies, and high-treason, but more especially of Charles Butler, the notorious clipper, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27274</idno>
+            <idno type="STC">Wing B1710</idno>
+            <idno type="STC">ESTC R3430</idno>
+            <idno type="EEBO-CITATION">12311172</idno>
+            <idno type="OCLC">ocm 12311172</idno>
+            <idno type="VID">59358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 203:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behaviours, confessions, last speeches and execution of seven notorious malefactors who were on the 24th of this instant October, executed at Tyburn for felonies, murder, robberies, and high-treason, but more especially of Charles Butler, the notorious clipper, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Entred according to order"</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, Charles, d. 1683.</term>
+               <term>Executions (Law) --  England --  Cases --  Early works to 1800.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59358:1" rendition="simple:additions"/>
+            <head>THE BEHAVIOURS, CONFESSIONS, Laſt Speeches, AND EXECUTION OF <hi>SEVEN NOTORIO<g ref="char:V">Ʋ</g>S MALEFACTORS,</hi> WHO WERE On the 24th. of this inſtant <hi>October,</hi> Executed at <hi>TYBURN,</hi> FOR Felonies, Murder, Robberies, and HIGH TREASON. But more Eſpecially of CHARLES BUTLER THE Notorious Clipper, &amp;c.</head>
+            <p>
+               <hi>Examples of Juſtice, we ſee, can no ways deter ſome Perſons from ruſhing headlong up<g ref="char:EOLhyphen"/>on their own Deſtruction, as by the untimely Ends of theſe to be deplored Miſcreants will plainly appear; Some of which neither the late Inflictions of Puniſhment, nor the Perſuaſions of their Friends were capable to reclaim, till they too late found their forfeited Lives muſt inevitably appeaſe offended Juſtice, by an untimely Expiration: But to the purpoſe.</hi>
+            </p>
+            <div type="account">
+               <p>
+                  <hi>EDward Williams, Charles Dod,</hi> and <hi>Hugh Jones,</hi> Three Noted and Notorious Pick-Pockets, being Tryed the <hi>Laſt Seſſions,</hi> together with <hi>Sidly Vandelo,</hi> and <hi>Charles Ro<g ref="char:EOLhyphen"/>berts,</hi> of the ſame Profeſſion; And upon their Tryals it appearing, that they ranging the City on the 27th. of <hi>September</hi> laſt, abuſed and beat divers People, driving as it were Streets before them, committed ſtrange Outrages and Inſolencies, ſwearing as they went, <hi>They were right Divers.</hi> When at length coming into <hi>Little Lumbard-ſtreet,</hi> they
+<pb n="2" facs="tcp:59358:2"/>ſeized upon one <hi>Richard Littleton,</hi> and robbed him of a Caſtor, and Four ſhillings in mo<g ref="char:EOLhyphen"/>ny, <hi>Vandelo</hi> at the ſame time running him through with a Rapier; but it hapning on the Right ſide, the Wound did not prove Mortal. For this Robbery, and theſe Inſolencies, ſome of them having before been Burnt in the Hand, and all of them incorrigible Offen<g ref="char:EOLhyphen"/>ders, Sentence of Death paſſed upon them, on the 13th of this inſtant <hi>October.</hi> Upon which they earneſtly craved Tranſportation, but their Offences would not admit of that Favour from the Court. Whereupon being conveyed to <hi>Newgate,</hi> to expect the Day of their Diſſo<g ref="char:EOLhyphen"/>lution, they greatly bewail'd their miſpent Time, though all of them were Youths, ſome not (as 'tis ſuppos'd) exceeding 16 or 18 years, and none of them 24 or 26.</p>
+               <p>During the Interval allow'd for their making their Peace with Heaven, the three for<g ref="char:EOLhyphen"/>mer much deplored their unhappy and untimely Fate, ſaying, <hi>They had, by hearkning to bad Counſel, been drawn into thoſe Inconveniencies that had brought the worſt of Calamities upon them.</hi> And ſeemed greatly ſorry, that they had not better conſider'd the Words of the Wiſe Man, and <hi>Remembred their Creator in the days of their youth, ere the evil day came upon them:</hi> Saying, <hi>They had robbed and defrauded divers Perſons, living in a vicious and debauched courſe of Life with lewd Women, who were the greateſt Exciters of them to theſe Villanies they had perpetrated, deſiring that God and all good men would forgive them their Offences.</hi> And ſo continued till this day, when the three firſt, viz. <hi>Williams, Dod,</hi> and <hi>Jones,</hi> were put into the Cart, and conveyed to the place of Execution, weeping in abun<g ref="char:EOLhyphen"/>dance, and greatly lamenting their Fall, deſiring the Prayers of all good People, and con<g ref="char:EOLhyphen"/>feſſed, <hi>They had been old Offenders, uſing the Craft of</hi> Pocket-picking <hi>for many years, though they were but Youths: And that when they went to Church, they went more to pick Pockets, than to hear or edifie by the Sermons.</hi>
+               </p>
+               <p>
+                  <hi>They likewiſe ſaid, that there were a great number of their Gang, all young men, and that as they came along they ſaw divers of them coming towards the place of Execution, as they believ<g ref="char:EOLhyphen"/>ed, to pick pockets; therefore deſired earneſtly, even for Jeſus Chriſts ſake that they would take warning by their untimely end, they as it were being nipped in the bud, and God knows how ſoon ſome of thoſe they ſaw that day might be taken and brought to the like ignominious though juſtly deſerved death, they themſelves were upon the like deſign not many Executions before at the ſame place, little dreaming that their ends were ſo nigh.</hi>
+               </p>
+               <p>This being the Confeſſion of them all, they deſired the prayers of the Spectators, and again admoniſhing them to take warning by their untimely Ends, compoſed them<g ref="char:EOLhyphen"/>ſelves to dye.</p>
+            </div>
+            <div type="account">
+               <p>
+                  <hi>John Quarles,</hi> a Perſon formerly Burnt in the Hand for Robbery, being the <hi>Laſt Seſſions</hi> Tryed, together with one <hi>Charles Temple,</hi> for Robbing the Houſe of one <hi>Elenor Price</hi> into which they came to drink, breaking a Cloſet and a Box, and taking thence 120 <abbr>
+                     <hi>l.</hi>
+                  </abbr> two Bonds, and other things. He, upon the Impannelling the Jury, excepted againſt them; but another Jury being Impannell'd, and the Robbery appearing plain, <hi>Temple</hi> confeſſing it, and <hi>Quarles</hi> not greatly able to deny it, they were found Guilty, and had Sentence of Death paſſed upon them, as the former; at which time they begged Tranſportation, but it would not be granted. When returning to the diſmal Place from whence they came, <hi>Quarles</hi> laboured earneſtly for a Pardon, but the Former's Offences would not admit of ſo much mercy; for that he had not only undone the Party Robbed, but refuſed to make Reſtitution of any part thereof: wherefore ſeeing all hopes of Life were vain, he began to be ſerious, and place his thoughts upon Eternity; ſometimes being greatly dejected, and at other times ſeeming as one not regarding the near approach of his Diſſolution, yet gave very devout Attention, as likewiſe did the former, to ſuch Miniſters as came to pray with him, and mind him of his Future State; and ſo continued till this morning, when being conveyed to the place of Execution, after abundance of Sorrow expreſſed for his miſpen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Life, and an acknowledgment of the Juſtneſs of his miſerable End, for that no warnin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was ſufficient to reclaim him.</p>
+               <p>He ſaid, he had been much addicted to the ſins of Drunkenneſs, Sabbath-breaking, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of many Robberies, praying God to forgive all men, even his Accuſers, and deſired a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> young men and old better to obſerve the Sabbath, for he verily ſuppoſed for that the breac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof, more eſpecially than for any other Crime, God had ſuffer'd him to come to thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhameful and untimely End.</p>
+               <p>He wiſhed likewiſe, That thoſe who had been of his Gang in former Robberies, by hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fall might take timely Warning, and repent of their paſt Sins, before they provoke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God to deliver them up to an infamous Death.</p>
+               <p>This ſaid, he prayed to himſelf a while; and after he had given things to ſome of hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Friends, compoſed himſelf for Death.</p>
+            </div>
+            <div type="account">
+               <pb n="3" facs="tcp:59358:2" rendition="simple:additions"/>
+               <p>
+                  <hi>Charles Butler</hi> being Tryed for Clipping the Currant and Lawful Coyn of this King<g ref="char:EOLhyphen"/>dom, and the Proof apparent againſt him, That Colonel <hi>Stokes,</hi> upon the Information of one <hi>Colcut,</hi> ſearching his Houſe in <hi>Lincolns-Inn-Fields,</hi> found in an upper Room File-Duſt, Shears, Files, Scales, Weights, and upon his being apprehended 4 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in Clipped mony, <hi>&amp;c.</hi> And at another Houſe of his at <hi>Fulham,</hi> upon ſearch, was found File-Duſt, and Clipping Inſtruments. And that having a Garret-Chamber in the <hi>Temple,</hi> he being ſuſpected to be a Clipper after the Fire in 1679. upon ſearching that Foundation, divers Crucible Pots, Melting Pots, and a pair of Shears were found: He thereupon was found Guilty of the High-Treaſon, and received Sentence, together with one <hi>Elizabeth Haire,</hi> on the 13th of this inſtant <hi>October,</hi> to be Drawn and Hanged, <hi>&amp;c.</hi> and ſhe to be Burnt, <hi>&amp;c.</hi> When being convey'd to <hi>Newgate</hi> from whence he came, he continued in the <hi>Preſs-yard</hi> very penitent, ſeeming exceeding ſenſible of his many Offences till this Day, when being put into a Slead, for that purpoſe provided, he was drawn to <hi>Tyburn,</hi> where being laſt put into the Cart, he having a written Paper in his hand, deſired to ſpeak a few words to the Peo<g ref="char:EOLhyphen"/>ple; which being granted, he with a chearful and audible Voice told them:</p>
+               <p>
+                  <hi>That ſeeing it was expected and uſual for Dying Men at that place to ſpeak ſomewhat, he did not think it amiſs, for the ſatisfaction of the Spectators, whoſe Prayers he heartily deſired to Almighty God for the ſalvation of his precious and immortal Soul, to unburthen his Con<g ref="char:EOLhyphen"/>ſcience:</hi> (When after a ſhort Ejaculation, wherein he implored the mercy of the Father of Spirits, to have mercy upon his departing Soul.) <hi>He confeſſed that he had been a grie<g ref="char:EOLhyphen"/>vous Sinner, guilty and conſcious of many Sins, but more eſpecially of that for which he juſtly dyed. But ſince it had been rumor'd abroad that he was a</hi> Roman-Catholick, <hi>he proteſted in the words of a Dying Man, as he expected Mercy at the hands of God, that he had lived and now dyed a Proteſtant in the Communion of the Church of</hi> England. <hi>And that he had ever been a true Subject to the King, unleſs in this breach of His Laws; for which he heartily begged His Pardon, and the Pardons of all he had injured by ſo doing.</hi> Adding, <hi>That he dyed in perfect Charity with all Men, forgiving even him who had diſcover'd him, and was a means to bring him to his untimely, though deſerved End.</hi> (Meaning thereby <hi>Colcut,</hi> who married his Brothers Daughter.) <hi>Then he prayed for the King, that He might long Live, and proſperouſly-Reign, and that His lawful Succeſſor might ſucceed Him in His Throne.</hi>
+               </p>
+               <p>Having ſaid thus much, and made another Prayer, he pauſed a while, and then being asked by <hi>Mr. Ordinary</hi> concerning the Fire in the <hi>Temple,</hi> which begun in or near his Chamber, he again addreſſed himſelf to the People, and ſaid:</p>
+               <p>
+                  <hi>Good People, it has been ſuſpected that I had a hand in firing the</hi> Temple, <hi>to hinder a Diſcovery: I proteſt before Almighty God, the Great Judge of Heaven and Earth, before whom I am going to appear, that I had no Hand in it, neither do I know any that had, or any thing in relation to it; but by that Fire I loſt conſiderably, even to the value of</hi> 60 <abbr>l.</abbr> 
+                  <hi>in Books, and other things.</hi>
+               </p>
+               <p>This being ſaid, he pray'd heartily, and deſired the Spectators to join in Prayer with him: <hi>And to beſeech his bleſſed Redeemer, who pardoned</hi> Mary Magdalen, <hi>out of whom he caſt ſeven Devils, and the Thief upon the Croſs,</hi> &amp;c. <hi>to pardon his Sins, and receive his Soul.</hi> And ſo continued exceeding penitent to the laſt.</p>
+            </div>
+            <div type="account">
+               <p>
+                  <hi>Mary Phelps,</hi> a Bakers Wife, being the laſt Seſſions Tryed for aiding, comforting, and abetting <hi>John Bolger,</hi> in killing <hi>John Charlton</hi> at the <hi>Three Tun</hi> Tavern in <hi>Covent-Garden:</hi> where it appeared, that ſhe going into the Tavern with her Daughter to drink, a Coach-man that happened to be there, affronted her, as ſhe took it, with telling her, ſhe kept Bullies in her Houſe, for that when a Gentleman who owed him 6 ſhillings, ordered him to call for it, ſhe refuſed to let him ſpeak with him: upon which in a great Rage ſhe run home, telling him, ſhe would fetch one to vindicate her; but ere ſhe returned, the Coach-man was gone, yet ſhe brought <hi>Bolger</hi> with her, who bid firſt a Crown, then a Guiney, to know the Coach-man; but the People of the Houſe refuſing to ſatisfie him in that Point, and <hi>John Charlton,</hi> a Porter, that was by, telling the Party now Executed, that ſhe did ill, and that it was not long ſince ſhe was before Juſtice <hi>Due</hi> for the like Diſtur<g ref="char:EOLhyphen"/>bance, ſhe animated <hi>Bolger</hi> to revenge the Affront, who like a mercileſs Wretch run him through and being for this 2d. Murther Committed to the <hi>Gate-houſe,</hi> broke Priſon. But upon this Evidence <hi>Mary Phelps</hi> was found Guilty of the Murther, and Sentenced on the 13th. inſtant, and when in <hi>Newgate,</hi> during the Reſpite, ſhe greatly lamented her Raſh<g ref="char:EOLhyphen"/>neſs, and deſired the Prayers of ſuch as came to viſit her, entreating them, to have more
+<pb n="4" facs="tcp:59358:3" rendition="simple:additions"/>government of their Paſſions than ſhe had, left while they ſtrove to gratifie their unſeaſona<g ref="char:EOLhyphen"/>ble and unlawful Revenge, they brought themſelves to ſhameful and untimely Ends, and drew innocent Blood upon their Heads.</p>
+               <p>At the place of Execution ſhe ſeemed likewiſe very penitent, when being admoniſh<g ref="char:EOLhyphen"/>ed by Mr. Ordinary to confeſs her Guilt, ſhe ſaid, ſhe was not guilty of the actual killing of <hi>Charleton,</hi> but owned ſhe was aiding and abetting, and verily believed that had it not been through her occaſion, the Murther had not been committed. Then ſhe deſired for<g ref="char:EOLhyphen"/>giveneſs of all the world, deſiring God not to lay the blood that had been ſhed to her charge, when ſhe ſhould appear to give an account before his dread Tribunal: and then prayed to her ſelf, not doing any thing more, but bearing a part in ſinging of the Pſalm during her ſtay on this ſide Eternity.</p>
+            </div>
+            <div type="account">
+               <p>
+                  <hi>John Smith</hi> being Tryed the laſt Seſſions, together with <hi>William Smith,</hi> for Robbing the Houſe of the Right Honourable the Earl of <hi>Lindſey</hi> at <hi>Chelſey</hi> in the County of <hi>Middle-ſex,</hi> and taking, thence Laced Mantles, Curtains, Carpets, and other Goods, to the value of 30 <abbr>
+                     <hi>l.</hi>
+                  </abbr> The Felony and Robbery upon Tryal plainly proved, by the Goods being pro<g ref="char:EOLhyphen"/>duced in Court, which were taken in the Cuſtody of <hi>Smith,</hi> and where he and his Confe<g ref="char:EOLhyphen"/>derate had diſpoſed of them; and he the Seſſions before having been Burnt in the Hand, for ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>caling a Parliament Robe of the ſaid Earls, from the Houſe from whence he ſtole the Goods, for which he was Tryed as aboveſaid, he was Convicted, and together with <hi>William Smith</hi> received Sentence of Death on the 13th. of this inſtant <hi>October:</hi> but the latter not being ſuppoſed an incorrigible Offendor, he obtained a Reprieve; but <hi>John Smith,</hi> having continued extreamly penitent in <hi>Newgate</hi> till this day, was conveyed in a Cart to <hi>Tyburn,</hi> where he greatly lamented his paſt Offences, confeſſing the Robbery, and that he had been drawn away and infatuated, ſo that no warning could deter him from perſiſting in his unlawful Practice, therefore juſtly he was now about to receive his De<g ref="char:EOLhyphen"/>ſerts, in dying a ſhameful and ignominious Death, deſiring the Spectators to take warning by his End, and that his Death might deter them from falling into the like Inconvenien<g ref="char:EOLhyphen"/>cies. He further added, That he had been a lewd Perſon, and a great Sabbath-breaker, for which Offences God had ſuffered him to fall into other Sins, which the Law had ta<g ref="char:EOLhyphen"/>ken hold of, to his temporal Deſtruction, though he hoped God would have mercy up<g ref="char:EOLhyphen"/>on his Soul.</p>
+               <p>This being ſaid, <hi>Mr. Ordinary</hi> prayed with them very fervently, deſiring them to joyn in Prayer with him, and in concluſion gave them the Benediction of the Church, after which he ſet a Pſalm, which ended, he recommended them to the Mercy of the Almighty Judge and Creator of Heaven and Earth, and then the Cart drawing away, they hung for the ſpace of an hour, when being cut down, their Bodies were delivered to their Friends, who in Coffins brought for that purpoſe, convey them thence.</p>
+            </div>
+            <closer>Entred according to Order.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> Langley Curtis, <hi>mar</hi> Fleet-bridge. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
